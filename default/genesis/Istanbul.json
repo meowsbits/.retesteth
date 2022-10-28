@@ -1,6 +1,7 @@
 {
     "params" : {
         "fork" : "Istanbul",
+        "chainID": "0x01",
         "constantinopleForkBlock" : "0x00",
         "byzantiumForkBlock" : "0x00",
         "homesteadForkBlock" : "0x00"
