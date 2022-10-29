@@ -1,0 +1,11 @@
+{
+    "params" : {
+        "fork" : "ETC_Agharta",
+        "constantinopleForkBlock" : "0x00",
+        "byzantiumForkBlock" : "0x00",
+        "homesteadForkBlock" : "0x00",
+        "chainID" : "0x3d"
+    },
+    "accounts" : {
+    }
+}

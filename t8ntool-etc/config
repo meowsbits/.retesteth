@@ -13,11 +13,16 @@
         "EIP150",
         "EIP158",
         "Byzantium",
+        "ETC_Atlantis",
         "Constantinople",
         "ConstantinopleFix",
+        "ETC_Agharta",
         "Istanbul",
+        "ETC_Phoenix",
         "Berlin",
+        "ETC_Magneto",
         "London",
+        "ETC_Mystique",
         "Merge"
     ],
     "additionalForks" : [
